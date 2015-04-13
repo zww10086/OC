@@ -20,6 +20,7 @@
     BOOL isFloat;
     
     Operation _currentOper;
+    NSString *test;
     
 }
 
